@@ -2,13 +2,13 @@
 
 # Exploratory Data Analysis (EDA) - multi-purpose Sales Performance Data
 
-# Project Overview
+**Project Overview**
 
 In this project, we conducted an Exploratory Data Analysis (EDA) on retail sales data to uncover key insights that could drive business decisions. The dataset includes Fical periods, models, markets e.t.c.
 
-# Key Objectives:
+**Key Objectives:**
 
--Understand Sales Distribution: Analyze total sales across different products, regions, and time periods. 
+- Understand Sales Distribution: Analyze total sales across different products, regions, and time periods. 
 
 -Identify Trends: top 10 highest selling stores.
 
