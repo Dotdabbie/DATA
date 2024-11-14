@@ -47,6 +47,12 @@ Generated summary statistics to understand the distribution of key metrics like 
 The start and  final cleaning, calculated columns, conditions columns were delivered with powerBI, an interactive dashboard for visual storytelling and real-time analysis, designed to visualize TOTAL REVNUE, TOTAL REVENUE... ( using card visuals), new mwasures was created for total revenue using DAX function, total revenue by region... SLICERS for region, market were added for easy communication between visuals.
 
 
+![Screenshot 2024-11-14 232513](https://github.com/user-attachments/assets/9227fdb4-8cff-4ef9-ad5c-b048f4e52115)
+
+
+![Screenshot 2024-11-14 232439](https://github.com/user-attachments/assets/4ec2a431-c592-41b4-a11f-240981d808f3)
+
+
 # Result
 
 - Notable fluctuations were observed in thesales trends for each region within 2014 and 2015 with NORTH CENTRAL reaching the peak sale in 2014 with PART as the highest line of business.
