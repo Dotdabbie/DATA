@@ -10,21 +10,21 @@ In this project, we conducted an Exploratory Data Analysis (EDA) on retail sales
 
 - Understand Sales Distribution: Analyze total sales across different products, regions, and time periods. 
 
--Identify Trends: top 10 highest selling stores.
+- Identify Trends: top 10 highest selling stores.
 
--Highlight Top Performers: Determine the highest-selling products and regions. 
+- Highlight Top Performers: Determine the highest-selling products and regions. 
 
--Spot Underperformance: Identify products with declining or no sales in recent periods.
+- Spot Underperformance: Identify products with declining or no sales in recent periods.
 
 # DATA SOURCE
 The primary dataset used for this analysis is the "LITA data set BI visualization".
 
 # Steps and Insights:
---- Data Cleaning and Preparation
+- Data Cleaning and Preparation
 
---- Checked for missing values and duplicates, ensuring data integrity. 
+- Checked for missing values and duplicates, ensuring data integrity. 
 
---- Standardized date formats for temporal analysis.
+- Standardized date formats for temporal analysis.
 
 ### Summary Statistics 
 
@@ -32,14 +32,14 @@ Generated summary statistics to understand the distribution of key metrics like 
 
 # Sales Analysis
 
---- Total Sales by Product: Identified the top-selling line of business.
+- Total Sales by Product: Identified the top-selling line of business.
 
----Revenue by Region: Highlighted which regions contribute most to total sales.
-
-
+- Revenue by Region: Highlighted which regions contribute most to total sales.
 
 
--Power BI Dashboard: download here
+
+
+-Power BI Dashboard: download here [http://microsoft.com]
 
 The final deliverable Built an interactive dashboard for visual storytelling and real-time analysis, designed to visualize sales segments, Monthly sales trends, total revenue, region e.t.c. Key performance indicators (KPI cards) highlighted essential metrics like total revenue, top regions for sales,
 
